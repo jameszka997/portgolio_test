@@ -15,27 +15,28 @@ This repository aims to showcase my skills within data analytics, and as a platf
 ---
 - About
 - Study Projects
-  - SQL Noir Case Files
-  - R for Data Science2
-  - RNA-Seq Uppsala Workshop
+  - [SQL Noir Case Files](https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows)
+  - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
+  - [RNA-Seq Uppsala Workshop](https://github.com/jameszka997/RNA-seq-Uppsala-code)
   - Clinical Data Science Projects
 
 - Portfolio Projects
-  - Hungarian Drug Shortage Data Analysis
-  - Mail Merge using Excel and Word
-  - ICD Health Code Dataset Harmonization
-  - Bioinformatic Pipeline Developments
-  - Audit team Audit completion projection study
-  - Audit List Data Analysis project
-  - Project Map for interactive visualization dashboard
-  - Project Timeline Tracker (Gantt visual) 
+  - [Hungarian Drug Shortage Data Analysis](https://github.com/jameszka997/Hungarian-Drug-Shortage-Data-Analysis)
+  - [Mail Merge using Excel and Word](https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word)
+  - [ICD Health Code Dataset Harmonization](https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-)
+  - [Bioinformatic Pipeline Developments](https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects)
+  - [Audit team Audit completion projection study](https://github.com/jameszka997/Work-Projects)
+  - [Audit List Data Analysis project](https://github.com/jameszka997/Work-Projects)
+  - [Project Map for interactive visualization dashboard](https://github.com/jameszka997/Work-Projects)
+  - [Project Timeline Tracker (Gantt visual)](https://github.com/jameszka997/Work-Projects) 
   - Toxicology study (BSc project)
 
 
-### Certificates
+### Certificates (currently on-going status)
 - Clinical Data Science Certificate (by University of Colorado System - Coursera)
 - Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning)
 - Power BI Data modeling with DAX (LinkedIn Learning)
+- R for Data Science 2e
 
 
 

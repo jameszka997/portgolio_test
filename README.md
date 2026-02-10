@@ -35,7 +35,7 @@ This repository aims to showcase my skills within data analytics, and as a platf
 ### Certificates
 - Clinical Data Science Certificate (by University of Colorado System - Coursera)
 - Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning)
-- Power BI Essential Training (National Association of State Boards of Accountancy - LinkedIn Learning)
+- Power BI Data modeling with DAX (LinkedIn Learning)
 
 
 

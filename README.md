@@ -4,7 +4,7 @@ This is a test run to set-up a portfolio webpage from Github Pages
 Hello there,
 I am János! I have a technical background and hold a dual Master of Science/Engineering degree in Biotechnological & Pharmaceutical Sciences with a Major in Bioprocess Engineering. I have a deep seated interest & experience in data analysis as I have held roles focusing on various facets of data, as I have experience in the development of bioinformatic pipelines within NGS data, and data analysis of biologically derived data. Currently I am working ....
 
-You can find my CV here (link the CV which I will upload to Github).
+You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/main/CV%20Data%20Analyst.pdf).
 
 
 This repository aims to showcase my skills within data analytics, and as a platform to share any projects which I have worked on, so I may track my progress and improve myself within Data Analytics & Data Science related projects.

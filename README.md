@@ -29,7 +29,7 @@ This repository aims to showcase my skills within data analytics, and as a platf
   - [Audit List Data Analysis project](https://github.com/jameszka997/Work-Projects)
   - [Project Map for interactive visualization dashboard](https://github.com/jameszka997/Work-Projects)
   - [Project Timeline Tracker (Gantt visual)](https://github.com/jameszka997/Work-Projects) 
-  - Toxicology study (BSc project)
+  - [Toxicology Modelling and Study (BSc project)](https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex)
 
 
 ### Certificates (currently on-going status)

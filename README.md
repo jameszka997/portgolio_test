@@ -1,8 +1,12 @@
-# János Kondri - Data Analysis Portfolio 
-This is a test run to set-up a portfolio webpage from Github Pages
+# János Kondri - Data Portfolio 
+
 
 Hello there,
-I am János! I have a technical background and hold a dual Master of Science/Engineering degree in Biotechnological & Pharmaceutical Sciences with a Major in Bioprocess Engineering. I have a deep seated interest & experience in data analysis as I have held roles focusing on various facets of data, as I have experience in the development of bioinformatic pipelines within NGS data, and data analysis of biologically derived data. Currently I am working ....
+I am János! I have a technical background and hold a dual Master of Science/Engineering degree in Biotechnological & Pharmaceutical Sciences with a Major in Bioprocess Engineering. I have a deep seated interest & experience in data analysis & science as I have held roles focusing on various facets of data
+From developing bionformatic pipelines to process Next-Generation Sequencing data, all the way to creating Power BI-based tools for better decision making and data insight showcase.
+
+--- 
+Currently I am working on finishing my report dashboard for the analysis of [Drug Shortage cases within Hungary](https://github.com/jameszka997/Hungarian-Drug-Shortage-Data-Analysis), as well as finishing my Clinical Data Science Specialization certificate from University of Colorado.
 
 You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/main/CV%20Data%20Analyst.pdf).
 
@@ -10,7 +14,7 @@ You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/mai
 This repository aims to showcase my skills within data analytics, and as a platform to share any projects which I have worked on, so I may track my progress and improve myself within Data Analytics & Data Science related projects.
 
 
-### Table of Contents (will need to add the various links to my projects on my page
+### Table of Contents
 
 ---
 - About
@@ -32,16 +36,19 @@ This repository aims to showcase my skills within data analytics, and as a platf
   - [Toxicology Modelling and Study (BSc project)](https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex)
 
 
-### Certificates (currently on-going status)
-- Clinical Data Science Certificate (by University of Colorado System - Coursera)
-- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning)
+### Certificates
+- Clinical Data Science Certificate (by University of Colorado System - Coursera) (~80% completed)
+- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning) (50% completed)
 - Power BI Data modeling with DAX (LinkedIn Learning)
 - R for Data Science 2e
+- Participation within [Single cell RNAseq data analysis week-long workshop in Uppsala](https://uppsala.instructure.com/courses/91033) (organized by NBIS & SciLifeLab).
+
 
 
 
 
 
 ### Contacts
-LinkedIn:
-Email: 
+LinkedIn: 
+Email: kondri.janos997@gmail.com
+

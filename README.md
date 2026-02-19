@@ -14,6 +14,10 @@ You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/mai
 This repository aims to showcase my skills within data analytics, and as a platform to share any projects which I have worked on, so I may track my progress and improve myself within Data Analytics & Data Science related projects.
 
 
+**Technical Skills:*****R, Python, SQL, Power BI, Excel, Linux Terminal***
+
+
+
 ### Table of Contents
 
 ---
@@ -34,6 +38,13 @@ This repository aims to showcase my skills within data analytics, and as a platf
   - [Project Map for interactive visualization dashboard](https://github.com/jameszka997/Work-Projects)
   - [Project Timeline Tracker (Gantt visual)](https://github.com/jameszka997/Work-Projects) 
   - [Toxicology Modelling and Study (BSc project)](https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex)
+
+
+### Education
+- MSc, Medical Biosciences | Linköping University (*June 2023*)
+- ME, Medical & Pharmaceutical Biotechnology - Bioprocess Engineering Major | IMC Krems University (*September 2023*)
+- BSc, Marine & Freshwater Biology | Edinburgh Napier University (*June 2021*)
+
 
 
 ### Certificates

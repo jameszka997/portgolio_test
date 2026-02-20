@@ -14,7 +14,7 @@ You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/mai
 This repository aims to showcase my skills within data analytics, and as a platform to share any projects which I have worked on, so I may track my progress and improve myself within Data Analytics & Data Science related projects.
 
 
-**Technical Skills:*****R, Python, SQL, Power BI, Excel, Linux Terminal***
+**Technical Skills:*****R, Python, SQL, Power BI, Excel, Linux Terminal, Veeva Vault***
 
 
 
@@ -60,6 +60,6 @@ This repository aims to showcase my skills within data analytics, and as a platf
 
 
 ### Contacts
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/kondri-j%C3%A1nos-82964a14a/
 Email: kondri.janos997@gmail.com
 

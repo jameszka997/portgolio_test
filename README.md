@@ -2,7 +2,7 @@
 
 
 Hello there,
-I am János! I have a technical background and hold a dual Master of Science/Engineering degree in Biotechnological & Pharmaceutical Sciences with a Major in Bioprocess Engineering. I have a deep seated interest & experience in data analysis & science as I have held roles focusing on various facets of data
+I am János or Jamesz! I have a technical background and hold a dual Master of Science/Engineering degree in Biotechnological & Pharmaceutical Sciences with a Major in Bioprocess Engineering. I have a deep seated interest & experience in data analysis & science as I have held roles focusing on various facets of data
 From developing bionformatic pipelines to process Next-Generation Sequencing data, all the way to creating Power BI-based tools for better decision making and data insight showcase.
 
 --- 

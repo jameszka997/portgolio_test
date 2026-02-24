@@ -1,8 +1,10 @@
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
-name: "János Kondri"
-title: "Data Portfolio - János Kondri"
-logo: "assets/profile_pic_MAIN.png"
-description: "Bookmark this to keep an eye on my project updates!"
-show_downloads: false
+theme: jekyll-theme-minimal
+title: János Kondri`s Data Projects Portfolio
+logo: https://github.com/jameszka997/Data-Portfolio/blob/main/assets/profile_pic_MAIN.png
+description: Bookmark this to keep an eye on my project updates!
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
 

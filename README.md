@@ -1,4 +1,4 @@
-# János Kondri - Data Portfolio 
+<img width="1287" height="994" alt="image" src="https://github.com/user-attachments/assets/5fa612c9-ffbd-4839-8b61-6947e0a0175b" /># János Kondri - Data Portfolio 
 
 
 Hello there,
@@ -49,12 +49,13 @@ This repository aims to showcase my skills within data analytics, and as a platf
 
 
 
-### Certificates
-- Clinical Data Science Certificate (by University of Colorado System - Coursera) (~80% completed)
-- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning) (50% completed)
-- Power BI Data modeling with DAX (LinkedIn Learning)
-- R for Data Science 2e
+### Certificates & Workshops
+- Clinical Data Science Certificate (by University of Colorado System - Coursera) (~80% completed) [See here for Completed Certificates]()
+- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning) (50% completed) (See here for Completed Certificares)[
+- [Power BI Data modeling with DAX (LinkedIn Learning)]((https://media.licdn.com/dms/image/v2/D4D2DAQEnjm8f_7rd7Q/profile-treasury-document-images_1280/B4DZx7SzSaHcAU-/1/1771595053821?e=1772668800&v=beta&t=8cH--lvPC-E_YJDptHQehaWUhjkKuBvQgXEzbLn36sk))
+- [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
 - Participation within [Single cell RNAseq data analysis week-long workshop in Uppsala](https://uppsala.instructure.com/courses/91033) (organized by NBIS & SciLifeLab).
+- [Software Testing Foundations: Keeping QA Skills Current in the Age of AI](https://media.licdn.com/dms/image/v2/D4D2DAQEs31KVA8Ql1A/profile-treasury-document-images_1280/B4DZx7Sah4IoAU-/1/1771594952488?e=1772668800&v=beta&t=NxsXv2M4j8MlfeMn__rAy0JhXQDaqqCwv5zEwTDJ-UE)
 
 
 

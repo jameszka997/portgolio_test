@@ -41,9 +41,11 @@ This repository aims to showcase my skills within data analytics, and as a platf
 
 
 ### Education
-- MSc, Medical Biosciences | Linköping University (*June 2023*)
-- ME, Medical & Pharmaceutical Biotechnology - Bioprocess Engineering Major | IMC Krems University (*September 2023*)
-- BSc, Marine & Freshwater Biology | Edinburgh Napier University (*June 2021*)
+|University Education  | Issuing University & Completion Time |
+|--|--|
+| MSc, Medical Biosciences | Linköping University (*June 2023*)|
+| ME, Medical & Pharmaceutical Biotechnology - Bioprocess Engineering Major | IMC Krems University (*September 2023*)|
+| BSc, Marine & Freshwater Biology | Edinburgh Napier University (*June 2021*)|
 
 
 

@@ -1,4 +1,3 @@
-<img width="1287" height="994" alt="image" src="https://github.com/user-attachments/assets/5fa612c9-ffbd-4839-8b61-6947e0a0175b" /># János Kondri - Data Portfolio 
 
 
 Hello there,

@@ -13,7 +13,7 @@ You can find my CV [here](https://github.com/jameszka997/Data-Portfolio/blob/mai
 This repository aims to showcase my skills within data analytics, and as a platform to share any projects which I have worked on, so I may track my progress and improve myself within Data Analytics & Data Science related projects.
 
 
-**Technical Skills:*****R, Python, SQL, Power BI, Excel, Linux Terminal, Veeva Vault***
+**Technical Skills:*****R, Python, SQL, Power BI, Excel, Linux Terminal, Veeva Vault, SAP Concur***
 
 
 
@@ -45,12 +45,12 @@ This repository aims to showcase my skills within data analytics, and as a platf
 | MSc, Medical Biosciences | Linköping University (*June 2023*)|
 | ME, Medical & Pharmaceutical Biotechnology - Bioprocess Engineering Major | IMC Krems University (*September 2023*)|
 | BSc, Marine & Freshwater Biology | Edinburgh Napier University (*June 2021*)|
-
+ 
 
 
 ### Certificates & Workshops
 - Clinical Data Science Certificate (by University of Colorado System - Coursera) (~80% completed) [See here for Completed Certificates]()
-- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning) (50% completed) (See here for Completed Certificares)[
+- Anaconda Python for Data Science Professional Certificate (by Anaconda - LinkedIn Learning) (70% completed) (See here for Completed Certificares)[
 - [Power BI Data modeling with DAX (LinkedIn Learning)]((https://media.licdn.com/dms/image/v2/D4D2DAQEnjm8f_7rd7Q/profile-treasury-document-images_1280/B4DZx7SzSaHcAU-/1/1771595053821?e=1772668800&v=beta&t=8cH--lvPC-E_YJDptHQehaWUhjkKuBvQgXEzbLn36sk))
 - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
 - Participation within [Single cell RNAseq data analysis week-long workshop in Uppsala](https://uppsala.instructure.com/courses/91033) (organized by NBIS & SciLifeLab).
